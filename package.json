@@ -1,0 +1,24 @@
+{
+  "name": "the-secure-identifier",
+  "version": "1.0.0",
+  "description": "This project implements a decentralized identity and verification platform using Solidity, designed for banking applications. The system leverages blockchain technology to ensure secure, tamper-proof and privacy-preserving identity verification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mua2022/The-Secure-Identifier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mua2022/The-Secure-Identifier/issues"
+  },
+  "homepage": "https://github.com/mua2022/The-Secure-Identifier#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  }
+}
