@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/mua2022/The-Secure-Identifier#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
     "hardhat": "^2.22.18"
   }
 }
